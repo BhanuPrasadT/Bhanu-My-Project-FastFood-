@@ -1,0 +1,22 @@
+body{
+    width: 450px;
+    background: white;
+    margin-left: 50%;
+    margin-top: 10%;
+    padding: 30px;
+    box-shadow: 0px 0px 10px rgb(0, 0, 0);
+    position: relative;
+}
+body input{
+    height: 100%;
+    width: 100%;
+    border: none;
+    font-size: 17px;
+    border-bottom: 2px solid silver;
+}
+.data{
+    font-size: 50px;
+    text-decoration: none;
+    position: relative;
+
+}
