@@ -13,7 +13,7 @@ export class HomeComponent {
   ngOnInit():void{}
   submit(){
     if(this.document.getElementById('name').value=="bhanu"&&this.document.getElementById('contact').value=="910039"&&this.document.getElementById('email').value=="gopi@mail"&&this.document.getElementById('pincode').value=="1234"&&this.document.getElementById('address').value=="asdf"){
-      alert('submitted')
+      alert('Your Response has Submitted')
     }else{
       alert('error')
     }
