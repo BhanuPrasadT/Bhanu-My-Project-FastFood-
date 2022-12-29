@@ -8,6 +8,7 @@ import { ServiceComponent } from './service/service.component';
 import { ContactComponent } from './contact/contact.component';
 import { CouponsComponent } from './coupons/coupons.component';
 import { FoodorderComponent } from './foodorder/foodorder.component';
+import { DetailsComponent } from './details/details.component';
 
 @NgModule({
   declarations: [
@@ -17,6 +18,7 @@ import { FoodorderComponent } from './foodorder/foodorder.component';
     ContactComponent,
     CouponsComponent,
     FoodorderComponent,
+    DetailsComponent
   
   ],
   imports: [
